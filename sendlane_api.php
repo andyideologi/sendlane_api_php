@@ -1,6 +1,4 @@
-
 <?php
-
 /*
    SIMPLIFIED EXAMPLE BY : ANDYWITHPHP
 
